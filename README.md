@@ -2,7 +2,7 @@
 # Michael DeCenso's INF6420 Project
 A portfolio site showcasing my work.
 ## wireframes
-![wireframe of Home page](wireframes/homepage.jpg)
+![wireframe of Home page](wireframes/home.jpg)
 Homepage will have 3 sections, the sections will be a navigation menu, my name and credentials and a slide show of my professional work
 
 About Me Page
