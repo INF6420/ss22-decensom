@@ -7,6 +7,11 @@ header {
   gap: 1rem;
 }
 
+header img {
+  width: 375px;
+  height: auto;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #ddd;
@@ -16,7 +21,7 @@ header {
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #cf0505;
+  color: #c40505;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -31,8 +36,8 @@ header {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #76a467;
+  color: black;
 }
 /* add two colums to pages under title */
 .column {
@@ -98,13 +103,18 @@ input[type=submit]:hover {
   
   padding: 20px;
 }
+form { width: 50%;
+  margin: 0 auto; }
+form textarea, 
+form input { width: 100%; }
 
-@media screen and (mini-width: 1065px) {
-  form { 
-    width; 50%
-    Margin: 3cm auto;
 
-  }
   
   
+
+
+.home-image {
+  width: 350px;
+  height: 400px;
+  object-fit: cover;
 }
